@@ -1,0 +1,25 @@
+name: mindset_microdata
+channels:
+  - conda-forge
+  - plotly
+
+dependencies:
+  - conda-build
+  - ipykernel
+  - jupyterlab
+  - plotly
+  - pandas
+  - numpy
+  - pip
+  - pytest
+  - pytest-cov
+  - python
+  - python-graphviz
+  - scipy
+  - plotnine
+  - virtualenv
+  - openpyxl
+
+  - pip:
+
+    - plotnine
