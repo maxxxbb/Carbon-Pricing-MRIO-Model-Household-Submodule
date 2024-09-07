@@ -31,8 +31,8 @@ Data:
 
 ### Documentation
 
-Code Documentation: **mindsethouseholdmodule.pdf** (generated automatically with Sphinx)
-Technical Documentation: **MINDSET_HH_MODULE.pdf**
+- Code Documentation: **mindsethouseholdmodule.pdf** (generated automatically with Sphinx)
+- Technical Documentation: **MINDSET_HH_MODULE.pdf**
 
 
 #### Requires
