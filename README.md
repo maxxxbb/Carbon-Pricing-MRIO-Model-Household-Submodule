@@ -1,8 +1,8 @@
 ## mrio-microdata
 
 
-### Subfolder Consumption_Module
-Apply MRIO-model results for policy-induced sectoral price changes with country- and decile specific household expenditure data to 1. assess consumption incidence and 2. feed decile-specific demand reactions back into the model. The aim of the MRIO is to assess the short- and medium term impacts of different climate and development policy scenarios across various outcomes.
+### Consumption_Module
+Apply results of global MRIO-model for policy-induced sectoral price changes with country- and decile specific household expenditure data to 1. assess consumption incidence and 2. feed decile-specific demand reactions back into the model. The aim of the MRIO is to assess the short- and medium term impacts of different climate and development policy scenarios across various outcomes.
 
 The subfolder contains:
 - **base_data**: Concordance tables, HH-Survey+Elasticity data and Placeholder MINDSET results for Bulgaria: contains all necessary input data - **Not public**
